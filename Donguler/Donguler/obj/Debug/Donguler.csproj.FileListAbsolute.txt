@@ -1,0 +1,8 @@
+C:\Users\yağmur\source\repos\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\yağmur\source\repos\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\yağmur\source\repos\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\yağmur\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\yağmur\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\yağmur\source\repos\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\yağmur\source\repos\Donguler\Donguler\obj\Debug\Donguler.pdb
+C:\Users\yağmur\source\repos\Donguler\Donguler\obj\Debug\Donguler.exe.config

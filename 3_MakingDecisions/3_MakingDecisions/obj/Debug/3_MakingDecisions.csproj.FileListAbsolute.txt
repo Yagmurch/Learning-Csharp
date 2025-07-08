@@ -1,0 +1,8 @@
+C:\Users\yağmur\source\repos\3_MakingDecisions\3_MakingDecisions\bin\Debug\3_MakingDecisions.exe.config
+C:\Users\yağmur\source\repos\3_MakingDecisions\3_MakingDecisions\bin\Debug\3_MakingDecisions.exe
+C:\Users\yağmur\source\repos\3_MakingDecisions\3_MakingDecisions\bin\Debug\3_MakingDecisions.pdb
+C:\Users\yağmur\source\repos\3_MakingDecisions\3_MakingDecisions\obj\Debug\3_MakingDecisions.csproj.AssemblyReference.cache
+C:\Users\yağmur\source\repos\3_MakingDecisions\3_MakingDecisions\obj\Debug\3_MakingDecisions.csproj.CoreCompileInputs.cache
+C:\Users\yağmur\source\repos\3_MakingDecisions\3_MakingDecisions\obj\Debug\3_MakingDecisions.exe
+C:\Users\yağmur\source\repos\3_MakingDecisions\3_MakingDecisions\obj\Debug\3_MakingDecisions.pdb
+C:\Users\yağmur\source\repos\3_MakingDecisions\3_MakingDecisions\obj\Debug\3_MakingDecisions.exe.config
