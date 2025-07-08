@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ya\u011Fmur\\source\\repos\\ConsoleApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\ya\u011Fmur\\Desktop\\Software\\Learning-Csharp\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E16AECB-0259-4309-B76D-7AD31325D330}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\ya\u011Fmur\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E16AECB-0259-4309-B76D-7AD31325D330}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\ya\u011Fmur\\desktop\\software\\learning-csharp\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E16AECB-0259-4309-B76D-7AD31325D330}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ya\u011Fmur\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ya\u011Fmur\\Desktop\\Software\\Learning-Csharp\\ConsoleApp2\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\ya\u011Fmur\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\ya\u011Fmur\\Desktop\\Software\\Learning-Csharp\\ConsoleApp2\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T11:05:06.188Z",
               "EditorCaption": ""
